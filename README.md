@@ -1,1 +1,3 @@
-# ElectricalManagement
+# 電気管理
+ElectricalManagement
+
