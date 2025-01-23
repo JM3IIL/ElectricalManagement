@@ -3,12 +3,17 @@
 直流機
 - 直流電動機
 - 直流発電機
+
 直流電動機
 https://ja.wikipedia.org/wiki/%E7%9B%B4%E6%B5%81%E9%9B%BB%E5%8B%95%E6%A9%9F
 - 分巻電動機
 - 直巻電動機
 - 複巻電動機
+
 直流他励電動機
+https://eleking.net/study/s_machine/sm_emcircuit.html
+https://note.com/elemag/n/n28872c3b3273
+
 直流発電機起電力 e[V]
 
 単相単巻変圧器
