@@ -15,8 +15,12 @@ https://eleking.net/study/s_machine/sm_emcircuit.html
 https://note.com/elemag/n/n28872c3b3273
 
 直流発電機起電力 e[V]
+https://eleking.net/study/s_machine/sm_electromotive.html
+https://kikai-maschine.com/2022/08/31/p%CF%86nz/
 
 単相単巻変圧器
+https://detail-infomation.com/auto-transformer/
+https://denki-no-shinzui.com/autotransformer/
 
 三相誘導機
 6極誘導電動機
