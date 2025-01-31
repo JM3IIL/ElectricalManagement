@@ -33,6 +33,9 @@ https://denki-no-shinzui.com/autotransformer/
 
 巻上機によって質量  kg の物体を  m/s の一定速度で巻き上げているときの電動機出力 kW
 
+皮相電力
+有効電力
+
 シーケンス制御
 フィードバック制御
 
