@@ -35,7 +35,7 @@ https://denki-no-shinzui.com/autotransformer/
 
 皮相電力 S [VA] = 有効電力 P [W] + 無効電力 Q [var]
 
-有効電力(消費電力) : $P = V_{rms}I_{rms} cos θ [W]$
+有効電力(消費電力) : $P = V_{rms}I_{rms} cos θ [W]$ θは正弦波電圧と電流の位相差
 
 無効電力 : $Q = V_{rms}I_{rms} sin θ [var]$
 
