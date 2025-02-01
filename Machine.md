@@ -41,7 +41,7 @@ https://denki-no-shinzui.com/autotransformer/
 
 - 抵抗 : R
 - リアクタンス : X
-力率 $P/S = P/sqrt{P^2 + Q^2} = R/sqrt{R^2 + X^2}$
+力率 $P/S = P/\sqrt{P^2 + Q^2} = R/\sqrt{R^2 + X^2}$
 
 シーケンス制御
 フィードバック制御
