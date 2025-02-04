@@ -2,7 +2,7 @@
 ElectricalManagement
 
 電気主任技術者
-- 理論
+- [理論](./Theory.md)
 - [電力](./ElectricPower.md)
 - [機械](./Machine.md)
 - [法律](./Law.md)
