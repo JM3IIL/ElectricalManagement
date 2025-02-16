@@ -8,8 +8,9 @@ https://denken-ou.com/riron/
 https://kakomonn.com/denken3/createques/
 
 
-## 磁界
+## 電磁気
 ### 環状ソレノイド
+H20問03 / R01問04
 <アンペアの周回積分の法則>
 - 環状ソレノイド内部
 - コイルの巻数 N [回]
