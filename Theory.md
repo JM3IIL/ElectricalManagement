@@ -9,6 +9,10 @@ https://kakomonn.com/denken3/createques/
 
 
 ## 電磁気
+### 電束
+電束とは
+https://detail-infomation.com/electric-flux/
+
 ### 環状ソレノイド
 H20問03 / R01問04 / 
 <アンペアの周回積分の法則>
