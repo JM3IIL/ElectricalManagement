@@ -16,6 +16,7 @@ https://detail-infomation.com/electric-flux/
 ### 環状ソレノイド
 H20問03 / R01問04 / 
 <アンペアの周回積分の法則>
+https://detail-infomation.com/amperes-circuital-integral-law/
 - 環状ソレノイド内部
 - コイルの巻数 N [回]
 - 電流 I [A]
@@ -32,6 +33,7 @@ $NI = Hl$
 $B = μH$
 
 <ビオ・サバールの法則>
+https://detail-infomation.com/biot-savart-law/
 H28問03
 -微小な長さ Δl に流れる電流 I が，距離 r 離れた場所に作る磁界 ΔH 
 
