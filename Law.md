@@ -11,3 +11,7 @@ https://www.meti.go.jp/policy/safety_security/industrial_safety/sangyo/electric/
 電気関係報告規則
 https://laws.e-gov.go.jp/law/340M50000400054/
 
+
+## 法規の計算問題
+https://jeea.or.jp/course/contents/12148/
+
