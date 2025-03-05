@@ -6,3 +6,11 @@ ElectricalManagement
 - [電力](./ElectricPower.md)
 - [機械](./Machine.md)
 - [法律](./Law.md)
+
+過去問解説
+https://yaku-tik.com/denken/category/kako/
+
+https://kakomonn.com/denken3/
+
+https://denken-ou.com/
+
