@@ -34,6 +34,9 @@ https://denken-ou.com/denryoku/
 ### 電池
 二次電池
 
+[二次電池](RechargeableBattery.md)
+
+
 ### 鉄心
 磁気ヒステリシス特性 (B−H特性)
 
