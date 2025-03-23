@@ -12,6 +12,9 @@ https://momoyoshiblog.com/doukiki-kouzou/
 
 回転子「突極型」「円筒型」
 
+発電工学
+https://denjoforest.com/category/electricity/power-generation
+
 ## 水力発電
 - 反動水車 (圧力エネルギーを、水車を回転させる運動エネルギーに変換): フランシス水車,カプラン水車(可変プロペラ水車),斜流水車（デリア水車）
 - 衝動水車 (羽根車に対して接線方向から水流を入射し、その衝撃を利用して回転): ペルトン水車,ターゴインパルス水車,クロスフロー水車
