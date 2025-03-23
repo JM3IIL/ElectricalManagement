@@ -46,4 +46,8 @@ https://denki-no-shinzui.com/autotransformer/
 シーケンス制御
 フィードバック制御
 
+電気機器学
+https://denjoforest.com/category/electricity/electric-machine
+
+
 パルス幅変調制御(PWM)
