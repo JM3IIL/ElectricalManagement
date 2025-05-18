@@ -1,4 +1,11 @@
 # 法
+
+https://denken-ou.com/hoki/
+1. 電気事業法他関連法規
+1. 電気設備技術基準及びその解釈
+1. 電気施設管理
+
+    
 電気事業法
 https://laws.e-gov.go.jp/law/339AC0000000170/
 
