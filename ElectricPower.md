@@ -2,6 +2,15 @@
 科目別　電力問題一覧 
 https://denken-ou.com/denryoku/
 
+1. 水力
+1. 火力
+1. 原子力
+1. 新エネルギー発電
+1. 変電
+1. 送電
+1. 配電
+1. 電気材料
+
 ## 発電機
 同期発電機
 https://denki-plantengineer.com/doukihatsudenki
