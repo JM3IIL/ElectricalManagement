@@ -7,3 +7,11 @@ https://denki-no-shinzui.com/calculation-hydropower/
 - 落下する高さ $H [m]$
 - 単位時間当たりの仕事 $P [kW]$
 $P = 9.8QH$
+
+
+## 水車の種類
+
+
+|フランシス水車|日本の水力発電所の70%
+カプラン水車
+|ペルトン水車|
