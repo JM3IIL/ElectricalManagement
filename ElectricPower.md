@@ -43,6 +43,10 @@ https://denjoforest.com/category/electricity/power-generation
 - 沸騰水型軽水炉(BWR)
 
 ## 変電
+Y-Y結線
+Y-Δ結線
+V結線
+100分率インピーダンス
 
 ## 送電
 電圧降下＝電路の抵抗×電流
