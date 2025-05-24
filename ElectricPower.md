@@ -30,9 +30,12 @@ https://denjoforest.com/category/electricity/power-generation
 
 [水力発電](./ElectricPower/Hydropower.md)
 
-## 気力発電
+## 汽力発電
 再生サイクル
 再熱サイクル
+
+[汽力発電](./ElectricPower/SteamPowerGeneration.md)
+
 
 ### 火力発電
 
