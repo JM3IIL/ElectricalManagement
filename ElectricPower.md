@@ -58,12 +58,13 @@ V結線
 
 ## 配電
 
+接地方式
 
 ## 電気材料
 ### 電池
 二次電池
 
-[二次電池](RechargeableBattery.md)
+[二次電池](./ElectricPower/RechargeableBattery.md)
 
 
 ### 鉄心
