@@ -69,6 +69,7 @@ V結線
 絶縁材料
 気体、液体、固体
 https://yaku-tik.com/denken/d-insulating-material/
+https://denken-ou.com/denryokur1-14/
 
 ### 鉄心
 磁気ヒステリシス特性 (B−H特性)
