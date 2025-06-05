@@ -26,6 +26,12 @@ https://denken-ou.com/kikai/
 |　　|同期機|電磁石同期電動機|
 |　　|　　　|永久磁石同期電動機 (PMSM)|
 
+誘導電動機
+https://ja.wikipedia.org/wiki/%E8%AA%98%E5%B0%8E%E9%9B%BB%E5%8B%95%E6%A9%9F
+
+同期電動機
+https://ja.wikipedia.org/wiki/%E5%90%8C%E6%9C%9F%E9%9B%BB%E5%8B%95%E6%A9%9F
+
 直流機
 - 直流電動機
 - 直流発電機
