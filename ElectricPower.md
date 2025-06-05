@@ -66,6 +66,9 @@ V結線
 
 [二次電池](./ElectricPower/RechargeableBattery.md)
 
+絶縁材料
+気体、液体、固体
+https://yaku-tik.com/denken/d-insulating-material/
 
 ### 鉄心
 磁気ヒステリシス特性 (B−H特性)
