@@ -25,3 +25,9 @@
 - 電圧、周波数、亘長
 https://denken-ou.com/denryokuh27-10/
 
+- 角周波数をω
+- 周波数をf
+- 静電容量をC
+- 誘電正接をtanδ
+誘電体損 $W_d = ωCV^2tanδ = 2πfCV^2tanδ$
+
