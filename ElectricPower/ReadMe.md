@@ -1,5 +1,7 @@
 # 電力
 
+https://lese1026.xsrv.jp/2019/08/25/koushiki_matome/
+
 タービン発電機
 - 水素冷却方式
 - 空気冷却方式
