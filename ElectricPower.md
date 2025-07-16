@@ -60,6 +60,10 @@ V結線
 
 接地方式
 
+需要率・不等率・負荷率
+https://github.com/JM3IIL/WiringDesign/blob/main/DemandFactor.md
+
+
 ## 電気材料
 ### 電池
 二次電池
