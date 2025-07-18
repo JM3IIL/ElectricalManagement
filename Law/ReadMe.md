@@ -9,6 +9,10 @@
 
 https://www.shiken.or.jp/shiken/qualification/
 
+## 接触防護措置
+- 簡易接触防護措置 1.8m 2m
+- 接触防護措置 2.3m 2.5m
+
 ## 電線路
 電気設備の技術基準の解釈第68条
 https://jeea.or.jp/course/contents/11105/
