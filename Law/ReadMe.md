@@ -21,3 +21,8 @@ https://denken-ou.com/houkir1-8/
 ## 接地抵抗の計算
 https://jeea.or.jp/course/contents/12141/
 
+
+## 風圧荷重とたるみ
+
+https://jeea.or.jp/course/contents/12152/
+
