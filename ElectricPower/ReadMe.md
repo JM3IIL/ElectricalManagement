@@ -45,6 +45,11 @@ https://lese1026.xsrv.jp/2019/08/25/koushiki_matome/
 がいし
 - 懸垂がいし
 
+
+低圧引き込み
+- ケッチヒューズ https://memo-labo.com/ketti.php
+- 
+
 地中電線損失
 - 誘電体損
 - シース損
