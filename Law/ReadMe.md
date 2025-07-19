@@ -22,6 +22,7 @@ https://denken-ou.com/houkir1-8/
 - 配線用遮断器:1.25倍 60分 2倍 2分
 - ヒューズ:1.6倍 60分 2倍 2分
 
+https://jeea.or.jp/course/contents/11104/
 
 ## 接地抵抗の計算
 https://jeea.or.jp/course/contents/12141/
