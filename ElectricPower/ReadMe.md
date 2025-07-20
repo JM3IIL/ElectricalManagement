@@ -76,7 +76,7 @@ https://lese1026.xsrv.jp/2019/08/25/koushiki_matome/
 
 
 電圧降下
-
+https://sustainable-switch.jp/electric/voltage-drop-240101/
 
 誘導体損
 - ケーブル心線1線あたりの静電容量、誘電正接
