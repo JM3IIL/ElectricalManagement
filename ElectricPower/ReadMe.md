@@ -93,8 +93,10 @@ https://denken-ou.com/denryokuh27-10/
 V結線変圧器
 
 百分率インピーダンス
+https://jeea.or.jp/course/contents/12151/
 
 遅れ力率
+https://techweb.rohm.co.jp/product/power-device/si/21880/
 
 送電損失を指定以下とするための電線の最小断面積
 
