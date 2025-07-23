@@ -1,5 +1,8 @@
 # 汽力発電
 
+1 [kJ/s] = 1 [kW]
+3600 [kJ] = 1 [kWh]
+
 
 蒸気原動所サイクル(ランキンサイクル)
 https://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B5%E3%82%A4%E3%82%AF%E3%83%AB
