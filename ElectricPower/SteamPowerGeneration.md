@@ -21,3 +21,8 @@ https://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B5%E3%8
 
 
 再生ランキンサイクル
+
+標準気体
+$1 [kmol] = 22.4 [m^3]$
+
+
