@@ -94,6 +94,9 @@ V結線変圧器
 
 百分率インピーダンス
 https://jeea.or.jp/course/contents/12151/
+https://electricityprofessional.com/3679/
+
+$%Z = \frac{ZI}{V} × 100 [%]$
 
 遅れ力率
 https://techweb.rohm.co.jp/product/power-device/si/21880/
