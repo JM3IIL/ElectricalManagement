@@ -108,6 +108,8 @@ https://denken-ou.com/denryokuh27-10/
 
 
 V結線変圧器
+https://denki-no-shinzui.com/v-connection/
+
 
 百分率インピーダンス
 https://jeea.or.jp/course/contents/12151/
