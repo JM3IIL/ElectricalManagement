@@ -68,6 +68,10 @@ https://www.ngk.co.jp/gaishi/
 - シース損
 - 抵抗損
 
+
+中性点接地
+https://jeea.or.jp/course/contents/04102/
+
 供給用配電盤
 
 鋼心アルミより線
