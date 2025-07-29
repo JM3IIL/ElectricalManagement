@@ -1,7 +1,5 @@
 # 電力
 
-
-
 https://lese1026.xsrv.jp/2019/08/25/koushiki_matome/
 
 タービン発電機
