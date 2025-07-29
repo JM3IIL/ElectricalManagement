@@ -1,7 +1,6 @@
 # 電力
 
 
-鉄機械：線路充電容量が大きい
 
 https://lese1026.xsrv.jp/2019/08/25/koushiki_matome/
 
@@ -67,6 +66,11 @@ https://www.ngk.co.jp/gaishi/
 低圧引き込み
 - ケッチヒューズ https://memo-labo.com/ketti.php
 - 
+
+https://strategy.macodenken.com/entry/2020/07/27/104306
+https://electric-facilities.jp/denki7/ta/010.html
+- 鉄機械：線路充電容量が大きい
+- 銅機械：
 
 故障点位置評定
 - マーレーループ法：ホイートストンブリッジの原理：ケーブル亘長：健全相がない場合、断線事故の場合、適用できない
