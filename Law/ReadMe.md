@@ -29,6 +29,12 @@ https://jeea.or.jp/course/contents/12141/
 
 
 ## 風圧荷重とたるみ
+風圧荷重
+- 甲種風圧荷重
+- 乙種風圧荷重
+- 丙種風圧荷重
+- 着雪時風圧荷重
 
+https://yaku-tik.com/denken/h-std-wind-load/
 https://jeea.or.jp/course/contents/12152/
 
