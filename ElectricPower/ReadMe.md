@@ -9,8 +9,8 @@ https://lese1026.xsrv.jp/2019/08/25/koushiki_matome/
 
 タービン
 - 復水タービン
-- 背圧タービン
-- 反動タービン
+- 背圧タービン：https://www.karyokuplant.com/turbine/308-2/
+- 反動タービン：https://ja.wikipedia.org/wiki/%E3%82%BF%E3%83%BC%E3%83%93%E3%83%B3
 - 衝動タービン
 - 再生タービン
 
