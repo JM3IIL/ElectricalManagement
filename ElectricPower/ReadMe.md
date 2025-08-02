@@ -109,9 +109,6 @@ https://jeea.or.jp/course/contents/04102/
 
 
 
-電圧降下
-https://sustainable-switch.jp/electric/voltage-drop-240101/
-
 誘導体損
 - ケーブル心線1線あたりの静電容量、誘電正接
 - 電圧、周波数、亘長
@@ -137,6 +134,11 @@ $%Z = \frac{ZI}{V} × 100 [%]$
 遅れ力率
 https://techweb.rohm.co.jp/product/power-device/si/21880/
 
+
+
+電圧降下
+https://sustainable-switch.jp/electric/voltage-drop-240101/
+https://e-sysnet.com/loss_and_voltagedrop/
 
 電圧降下
 - 電圧降下： $ε = \sqrt{3}I(Rcosθ + Xsinθ)$
