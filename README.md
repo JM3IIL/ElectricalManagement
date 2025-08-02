@@ -14,3 +14,8 @@ https://kakomonn.com/denken3/
 
 https://denken-ou.com/
 
+
+LaTeX数学組み込み関数
+https://mathlandscape.com/latex-math-ope/
+
+
