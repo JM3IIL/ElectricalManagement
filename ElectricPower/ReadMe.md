@@ -139,10 +139,9 @@ https://techweb.rohm.co.jp/product/power-device/si/21880/
 
 
 電圧降下
-電圧降下 ε 
-$ε = \sqrt{3}I(Rcosθ+Xsinθ)$
-$P = \sqrt{3}VIcosθ$
-$sinθ = \sqrt{1 - cos^2θ}$
+- 電圧降下： $ε = \sqrt{3}I(Rcosθ + Xsinθ)$
+- 電力： $P = \sqrt{3}VIcosθ$
+- (参考)： $sinθ = \sqrt{1 - cos^2θ}$
 
 送電損失を指定以下とするための電線の最小断面積
 
