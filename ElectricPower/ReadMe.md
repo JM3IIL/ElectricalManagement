@@ -129,7 +129,10 @@ https://denki-no-shinzui.com/v-connection/
 https://jeea.or.jp/course/contents/12151/
 https://electricityprofessional.com/3679/
 
-$%Z = \frac{ZI}{V} × 100 [%]$
+- 単相
+$%Z = \frac{ZI}{E} × 100 [%]$
+- 三相
+$%Z = \frac{ZI}{\frac{V}{\sqrt{3}}} × 100 [%]$
 
 - 抵抗： R [Ω]
 - リアクタンス： X [Ω]
