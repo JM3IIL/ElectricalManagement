@@ -131,8 +131,48 @@ https://electricityprofessional.com/3679/
 
 $%Z = \frac{ZI}{V} × 100 [%]$
 
+- 抵抗： R [Ω]
+- リアクタンス： X [Ω]
+力率： $P/S = P/\sqrt{P^2 + Q^2} = R/\sqrt{R^2 + X^2}$
+
+- インピーダンス： Z [Ω]
+力率： $cos θ = \frac{R}{Z} = \frac{R}{\sqrt{{V_{R}}^{2} + {V_{L}}^{2}}}$ 
+
+力率： $cos θ = \frac{I_{R}}{I} = \frac{I_{R}}{\sqrt{{I_{R}}^{2} + {I_{L}}^{2}}}$
+
+- 有効電力： P [W]
+- 皮相電力： S [VA]
+- 無効電力： Q [var]
+力率： $\cos\theta = \frac{P}{S} = \frac{P}{\sqrt{P^2+Q^2}}$
+
+
+【単相】
+- 電圧： V [V]
+- 電流： I [A]
+- $P = VIcosθ [W]$
+- $Q = VIsinθ [var]$
+- $S = VI [V⋅A]$
+
+【三相】
+- 線間電圧： V [V]
+- 線間電流： I [A]
+- $P = \sqrt{3}VIcosθ [W]$
+- $Q = \sqrt{3}VIsinθ [var]$
+- $S = \sqrt{3}VI [V⋅A]$
+
+【三角関数基礎】
+- $sin^2θ + cos^2θ = 1$
+- $sinθ = \sqrt{1 - cos^2θ}$
+- $tanθ = \frac{sinθ}{cosθ}$
+
+
+
+力率補正と送電電力
+https://e-sysnet.com/power_factor/
+
 遅れ力率
 https://techweb.rohm.co.jp/product/power-device/si/21880/
+
 
 
 
