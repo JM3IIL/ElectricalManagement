@@ -3,6 +3,8 @@
 https://lese1026.xsrv.jp/2019/08/25/koushiki_matome/
 https://e-sysnet.com/%e9%9b%bb%e9%a8%93%e4%b8%89%e7%a8%ae%e3%81%ae%e9%9b%bb%e5%8a%9b%e3%81%ae%e5%8b%89%e5%bc%b7%e6%b3%95/
 
+水車種別
+
 タービン発電機
 - 水素冷却方式
 - - 比熱
