@@ -160,7 +160,7 @@ $％Z = \frac{ZI}{\frac{V}{\sqrt{3}}} × 100 [％]$
 
 【三相】
 - 線間電圧： V [V]
-- 線間電流： I [A]
+- 線電流： I [A]
 - $P = \sqrt{3}VIcosθ [W]$
 - $Q = \sqrt{3}VIsinθ [var]$
 - $S = \sqrt{3}VI [V⋅A]$
