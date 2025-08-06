@@ -190,6 +190,10 @@ https://e-sysnet.com/loss_and_voltagedrop/
 - 電力： $P = \sqrt{3}VIcosθ$
 - (参考)： $sinθ = \sqrt{1 - cos^2θ}$
 
+短絡電流
+$I_s = \frac{100In}{%Z} 
+
+
 送電損失を指定以下とするための電線の最小断面積
 
 ケーブル心線を充電するために必要な容量
