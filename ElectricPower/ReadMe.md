@@ -14,7 +14,7 @@ https://e-sysnet.com/%e9%9b%bb%e9%a8%93%e4%b8%89%e7%a8%ae%e3%81%ae%e9%9b%bb%e5%8
 - 復水タービン
 - 背圧タービン：https://www.karyokuplant.com/turbine/308-2/
 - 反動タービン：https://ja.wikipedia.org/wiki/%E3%82%BF%E3%83%BC%E3%83%93%E3%83%B3
-- 衝動タービン
+- 衝動タービン：高圧、ノズルで圧力降下
 - 再生タービン
 
 気力発電
