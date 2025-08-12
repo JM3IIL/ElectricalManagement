@@ -1,5 +1,7 @@
 # 機械
 
+https://denken-ou.com/kikai/
+
 ## 直流機
 ### 発電機
 
