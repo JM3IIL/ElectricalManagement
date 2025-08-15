@@ -71,7 +71,12 @@ https://e-sysnet.com/%E7%9B%B4%E6%B5%81%E6%A9%9F%E3%81%AE%E5%8E%9F%E7%90%86%E3%8
 
 ## パワーエレクトロニクス
 降圧チョッパ
+https://detail-infomation.com/buck-converter/
+
 サイリスタ
+https://contents.zaikostore.com/semiconductor/5434/
+https://ja.wikipedia.org/wiki/%E3%82%B5%E3%82%A4%E3%83%AA%E3%82%B9%E3%82%BF
+https://jp.rs-online.com/web/content/discovery/ideas-and-advice/thyristors-guide
 
 ## 自動制御
 フィードバック制御
