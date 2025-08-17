@@ -84,10 +84,11 @@ https://jp.rs-online.com/web/content/discovery/ideas-and-advice/thyristors-guide
 ## 照明
 水平面照度
 
+https://jeea.or.jp/course/contents/09103/
 
-照度： E[ℓx]
-直下光度： I[cd]
-光源と計算点までの距離： h[m]
+照度： $E = \frac{I}{h^2} [ℓx]$
+直下光度： I [cd]
+光源と計算点までの距離： h [m]
 
 ## 電熱
 加熱方式
