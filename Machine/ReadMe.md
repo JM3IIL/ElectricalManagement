@@ -12,6 +12,8 @@ https://jeea.or.jp/course/contents/12127/
 
 https://e-sysnet.com/%E7%9B%B4%E6%B5%81%E6%A9%9F%E3%81%AE%E5%8E%9F%E7%90%86%E3%81%A8%E6%A7%8B%E9%80%A0/
 
+直巻発電機 逆起電力 $E = k_eI_fN = k_eI_aN [V]$ トルク $T = k_fI_a^2 [N⋅m]$
+
 ### 計算問題
 - 直流電動機の電機子巻線の抵抗値
 - 直流電動機の入力電圧を変化させたときの回転速度の変化
