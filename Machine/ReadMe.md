@@ -26,6 +26,10 @@ https://e-sysnet.com/%E7%9B%B4%E6%B5%81%E6%A9%9F%E3%81%AE%E5%8E%9F%E7%90%86%E3%8
 
 ### かご型誘導機
 
+https://ja.wikipedia.org/wiki/%E3%81%8B%E3%81%94%E5%BD%A2%E4%B8%89%E7%9B%B8%E8%AA%98%E5%B0%8E%E9%9B%BB%E5%8B%95%E6%A9%9F
+https://www.mohno-pump.co.jp/learning/manabiya/b2b.html
+https://denki-plantengineer.com/kagogatadendoki
+https://www2.panasonic.biz/jp/terasu/skill/dictionary/squirrel-cage.html
 
 ### 計算問題
 - 三相誘導電動機の二次銅損の導出
