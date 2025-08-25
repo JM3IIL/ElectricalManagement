@@ -64,6 +64,8 @@ Ns=120f/p
 - 三相同期発電機の短絡比
 - 同期発電機の負荷角
 
+https://jeea.or.jp/course/contents/12126/
+
 
 ## 変圧器
 
