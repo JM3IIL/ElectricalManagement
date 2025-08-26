@@ -66,6 +66,7 @@ Ns=120f/p
 
 https://jeea.or.jp/course/contents/12126/
 
+https://momoyoshiblog.com/douki-dendouki/
 
 ## 変圧器
 
