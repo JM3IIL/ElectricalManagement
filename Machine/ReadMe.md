@@ -68,6 +68,13 @@ https://jeea.or.jp/course/contents/12126/
 
 https://momoyoshiblog.com/douki-dendouki/
 
+https://yaku-tik.com/denken/k-synchronous-impedance/
+
+https://denken-ou.com/kikair3-6/
+https://denken-ou.com/kikaih25-6/
+
+
+
 ## 変圧器
 
 ## 四機総合問題
