@@ -115,7 +115,7 @@ https://jeea.or.jp/course/contents/09103/
 
 水平面照度：Eh
 法線照度：En
-$Eh = En cosθ = \frac{Iθcosθ}{r^2}$
+$Eh = En cosθ = \frac{Iθcosθ}{h^2}$
 
 
 ## 電熱
