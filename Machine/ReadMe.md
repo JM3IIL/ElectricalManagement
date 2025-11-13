@@ -113,6 +113,11 @@ https://jeea.or.jp/course/contents/09103/
 直下光度： I [cd]
 光源と計算点までの距離： h [m]
 
+水平面照度：Eh
+法線照度：En
+$Eh = En cosθ = \frac{Iθcosθ}{r^2}$
+
+
 ## 電熱
 加熱方式
 
