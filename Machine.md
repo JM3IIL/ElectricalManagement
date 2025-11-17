@@ -69,11 +69,14 @@ https://denki-no-shinzui.com/autotransformer/
 
 巻上機によって質量  kg の物体を  m/s の一定速度で巻き上げているときの電動機出力 kW
 
-皮相電力 S [VA] = 有効電力 P [W] + 無効電力 Q [var]
+- 皮相電力： S [VA]
+- 有効電力： P [W]　(消費電力)
+- 無効電力 Q [var]
 
-有効電力(消費電力) : $P = V_{rms}I_{rms} cos θ [W]$ θは正弦波電圧と電流の位相差
+- $P = V_{rms}I_{rms} cos θ $ θは正弦波電圧と電流の位相差
+- $Q = V_{rms}I_{rms} sin θ $
+- $S = \sqrt{P^2 + Q^2}$
 
-無効電力 : $Q = V_{rms}I_{rms} sin θ [var]$
 
 - 抵抗 : R
 - リアクタンス : X
