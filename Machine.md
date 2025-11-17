@@ -73,8 +73,8 @@ https://denki-no-shinzui.com/autotransformer/
 - 有効電力： P [W]　(消費電力)
 - 無効電力 Q [var]
 
-- $P = V_{rms}I_{rms} cos θ $ θは正弦波電圧と電流の位相差
-- $Q = V_{rms}I_{rms} sin θ $
+- $P = V_{rms}I_{rms} cos θ$  θは正弦波電圧と電流の位相差
+- $Q = V_{rms}I_{rms} sin θ$
 - $S = \sqrt{P^2 + Q^2}$
 
 
