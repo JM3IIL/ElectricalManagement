@@ -128,6 +128,7 @@ https://jeea.or.jp/course/contents/09103/
 法線照度：En
 $Eh = En cosθ = \frac{Iθcosθ}{h^2}$
 
+立体角
 
 ## 電熱
 加熱方式
