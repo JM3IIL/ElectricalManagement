@@ -145,4 +145,6 @@ $Eh = En cosθ = \frac{Iθcosθ}{h^2}$
 ## 情報伝送及び処理
 論理回路
 
+カルノー図
+https://note.com/tona902/n/n2c7ad9214193
 
