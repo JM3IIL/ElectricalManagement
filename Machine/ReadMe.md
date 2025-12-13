@@ -80,6 +80,9 @@ https://denken-ou.com/kikaih25-6/
 
 ## 変圧器
 
+https://eleking.net/denken3/d3f/d3f-transformer.html
+
+
 ## 四機総合問題
 
 
