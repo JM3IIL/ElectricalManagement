@@ -2,6 +2,7 @@
 
 電気事業法及び施行規則
 電気工事士法
+https://laws.e-gov.go.jp/law/335AC0000000139
 電気工事業法
 https://laws.e-gov.go.jp/law/345AC1000000096
 
