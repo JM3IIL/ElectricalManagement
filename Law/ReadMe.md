@@ -10,6 +10,8 @@ https://laws.e-gov.go.jp/law/407M50000400077
 https://laws.e-gov.go.jp/law/335AC0000000139
 電気工事業法
 https://laws.e-gov.go.jp/law/345AC1000000096
+発電用太陽電池設備に関する技術基準を定める省令
+
 
 ## 電気工作物
 - 事業用電気工作物
