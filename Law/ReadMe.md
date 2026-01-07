@@ -6,6 +6,8 @@ https://laws.e-gov.go.jp/law/339AC0000000170
 https://laws.e-gov.go.jp/law/340CO0000000206/
 電気事業法施行規則
 https://laws.e-gov.go.jp/law/407M50000400077
+電気関係報告規則
+https://laws.e-gov.go.jp/law/340M50000400054/
 電気工事士法
 https://laws.e-gov.go.jp/law/335AC0000000139
 電気工事業法
