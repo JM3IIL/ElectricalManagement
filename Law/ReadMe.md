@@ -57,3 +57,5 @@ https://jeea.or.jp/course/contents/12141/
 https://yaku-tik.com/denken/h-std-wind-load/
 https://jeea.or.jp/course/contents/12152/
 
+## 電気事業法における技術基準と技術基準の解釈の規定について
+https://jeea.or.jp/course/contents/11203/
