@@ -17,7 +17,7 @@ https://laws.e-gov.go.jp/law/503M60000400029
 発電用風力設備に関する技術基準を定める省令
 https://laws.e-gov.go.jp/law/409M50000400053
 電気設備に関する技術基準を定める省令
-
+https://laws.e-gov.go.jp/law/409M50000400052/
 電気用品安全法
 https://laws.e-gov.go.jp/law/336AC0000000234
 
