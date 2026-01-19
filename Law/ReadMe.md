@@ -12,6 +12,8 @@ https://laws.e-gov.go.jp/law/340M50000400054/
 https://laws.e-gov.go.jp/law/335AC0000000139
 電気工事業法
 https://laws.e-gov.go.jp/law/345AC1000000096
+電気工事業法施行規則
+https://laws.e-gov.go.jp/law/345M50000400103
 発電用太陽電池設備に関する技術基準を定める省令
 https://laws.e-gov.go.jp/law/503M60000400029
 発電用風力設備に関する技術基準を定める省令
