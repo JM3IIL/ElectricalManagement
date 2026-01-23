@@ -10,6 +10,8 @@ https://laws.e-gov.go.jp/law/407M50000400077
 https://laws.e-gov.go.jp/law/340M50000400054/
 電気工事士法
 https://laws.e-gov.go.jp/law/335AC0000000139
+電気工事士法施行規則
+https://laws.e-gov.go.jp/law/335M50000400097/
 電気工事業法
 https://laws.e-gov.go.jp/law/345AC1000000096
 電気工事業法施行規則
