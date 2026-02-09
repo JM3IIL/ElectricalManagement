@@ -10,3 +10,5 @@ H21 12(a)
 
 H21 13
 遮断器・変圧器の三相短絡電流
+https://www.jeea.or.jp/course/contents/12151/
+
