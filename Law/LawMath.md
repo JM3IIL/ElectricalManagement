@@ -2,6 +2,7 @@
 
 H21 11(a)(b)
 B種接地工事の接地線に流れる電流
+https://www.jeea.or.jp/course/contents/12141/
 
 H21 12(a)
 高圧架空電線の支線
