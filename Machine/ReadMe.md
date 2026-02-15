@@ -111,6 +111,8 @@ $W = 1/2J^2ω$　
 - https://electrical-engineer.hatenablog.jp/entry/2022/03/11/090000
 
 ## パワーエレクトロニクス
+昇降圧チョッパ
+
 降圧チョッパ
 https://detail-infomation.com/buck-converter/
 
