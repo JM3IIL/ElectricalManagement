@@ -1,4 +1,5 @@
 # 機械
+./Machine
 
 https://denken-ou.com/kikai/
 
