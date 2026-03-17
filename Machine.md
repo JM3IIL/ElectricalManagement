@@ -80,6 +80,7 @@ https://denki-no-shinzui.com/autotransformer/
 - $Q = V_{rms}I_{rms} sin θ$
 - $S = \sqrt{P^2 + Q^2}$
 
+- $cos^2θ + sin^2θ = 1$ → $sinθ = \sqrt{1-cos^2θ}
 
 - 抵抗 : R
 - リアクタンス : X
