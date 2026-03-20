@@ -71,6 +71,7 @@ https://denki-no-shinzui.com/autotransformer/
 巻上機によって質量  kg の物体を  m/s の一定速度で巻き上げているときの電動機出力 kW
 
 トルク
+速度
 
 - 皮相電力： S [VA]
 - 有効電力： P [W]　(消費電力)
