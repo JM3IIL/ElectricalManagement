@@ -86,7 +86,10 @@ https://yaku-tik.com/denken/k-synchronous-impedance/
 https://denken-ou.com/kikair3-6/
 https://denken-ou.com/kikaih25-6/
 
-
+|機器|速度|価格|性能|
+|:--|:--|:--|:--|
+|誘導機|回転磁界より遅い速度で回転|堅牢で低価格   |メンテナンスが容易|
+|同期機|回転磁界と同じ速度で回転|構造が複雑で高価 |高性能・高効率|
 
 ## 変圧器
 
