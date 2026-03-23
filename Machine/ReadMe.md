@@ -4,6 +4,12 @@ https://denken-ou.com/kikai/
 
 
 ## 直流機
+
+https://denken3s.com/dcmotor-structure/
+
+電機子
+界磁
+
 ### 発電機
 
 
