@@ -10,6 +10,9 @@ https://denken3s.com/dcmotor-structure/
 電機子
 界磁
 
+- 誘導起電力 $e = Blv [V]$
+- $E = $
+
 ### 発電機
 
 
