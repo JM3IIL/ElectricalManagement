@@ -11,7 +11,7 @@ https://denken3s.com/dcmotor-structure/
 界磁
 
 - 誘導起電力 $e = Blv [V]$
-- $E = $
+- $E = ¥frac{pZ}{60a}Φn$
 
 ### 発電機
 
