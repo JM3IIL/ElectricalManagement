@@ -9,6 +9,9 @@ https://denken3s.com/dcmotor-structure/
 
 電機子
 界磁
+- 磁束密度の大きさ B [T] 
+- 電流の大きさ I [A] 
+- 直線状導体の長さ l [m] 
 
 - 誘導起電力 $e = Blv [V]$
 - $E = \frac{pZ}{60a}Φn [V]$
