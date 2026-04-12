@@ -14,11 +14,11 @@ https://denken3s.com/dcmotor-structure/
 - 直線状導体の長さ l [m] 
 
 - 誘導起電力 $e = Blv [V]$
-- p
-- Z
-- a
-- Φ
-- n
+- $p = $
+- $Z = $
+- $a = $
+- $Φ = $
+- $n = $
 - $E = \frac{pZ}{60a}Φn [V]$
 
 ### 発電機
