@@ -21,6 +21,9 @@ https://denken3s.com/dcmotor-structure/
 - 回転速度 $n =  [min^{−1}]$
 - 誘導起電力 $E = \frac{pZ}{60a}Φn [V]$
 
+直流機の問題を解くための重要公式
+https://eleking.net/denken3/d3f/d3f-dcmotor.html
+
 ### 発電機
 
 
