@@ -27,6 +27,9 @@ https://eleking.net/denken3/d3f/d3f-dcmotor.html
 誘導機の問題を解くための重要公式
 https://eleking.net/denken3/d3f/d3f-induction.html
 
+同期機の問題を解くための重要公式
+https://eleking.net/denken3/d3f/d3f-synchronous.html
+
 ### 発電機
 
 
