@@ -168,6 +168,10 @@ https://jp.rs-online.com/web/content/discovery/ideas-and-advice/thyristors-guide
 ## 自動制御
 フィードバック制御
 
+自動制御の問題を解くための重要公式
+https://eleking.net/denken3/d3f/d3f-control.html
+
+
 ## 照明
 水平面照度
 
