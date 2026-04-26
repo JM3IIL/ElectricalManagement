@@ -190,6 +190,9 @@ https://jeea.or.jp/course/contents/09103/
 ## 電熱
 加熱方式
 
+電熱の問題を解くための重要公式
+https://eleking.net/denken3/d3f/d3f-electricheat.html
+
 ## 電気化学
 燃料電池
 二次電池
