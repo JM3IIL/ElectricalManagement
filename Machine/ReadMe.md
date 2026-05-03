@@ -1,4 +1,4 @@
-ふ# 機械
+# 機械
 
 https://denken-ou.com/kikai/
 
