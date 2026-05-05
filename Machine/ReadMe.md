@@ -1,4 +1,4 @@
-# 機械
+ゆ# 機械
 
 https://denken-ou.com/kikai/
 
@@ -125,6 +125,8 @@ https://denken-ou.com/kikaih25-6/
 
 
 すべり
+
+トルク
 
 ## 変圧器
 
