@@ -193,6 +193,8 @@ https://jeea.or.jp/course/contents/09103/
 
 立体角
 
+lm
+
 ## 電熱
 加熱方式
 
