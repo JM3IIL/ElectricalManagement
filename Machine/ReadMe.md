@@ -26,7 +26,7 @@ https://denken3s.com/dcmotor-structure/
 - 角速度： $ω [rad/s]$
 - トルク： $T = \frac{P}{ω} [N⋅m]$
 
-- 回転速度：$ N=V-Ia(ra+rf)KΦ [min-1]$
+- 回転速度：$N = V - I_a (r_a + r_f) KΦ [min^{-1}]$
 
 直流機の問題を解くための重要公式
 https://eleking.net/denken3/d3f/d3f-dcmotor.html
