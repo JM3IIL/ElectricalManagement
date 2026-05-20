@@ -71,6 +71,8 @@ https://electric-facilities.jp/denki7/ma/004.html
 …
 https://www.nomurakoudensha.co.jp/wim.html
 
+https://kikai-maschine.com/2021/12/06/post-1015/
+
 ### かご型誘導機
 
 https://ja.wikipedia.org/wiki/%E3%81%8B%E3%81%94%E5%BD%A2%E4%B8%89%E7%9B%B8%E8%AA%98%E5%B0%8E%E9%9B%BB%E5%8B%95%E6%A9%9F
