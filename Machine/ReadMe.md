@@ -98,7 +98,15 @@ https://www2.panasonic.biz/jp/terasu/skill/dictionary/squirrel-cage.html
 三相誘導電動機の極数が p ，電源の周波数が f [Hz] の時，同期速度 Ns [min−1] は，
 $N_s = 120f/p [min^{-1}]$
 
+誘導電動機のトルクTの公式
 
+T=Poω　［N⋅m］
+
+ 
+
+T ：トルク ［N⋅m］
+ω ：角速度 ［rad/s］
+Po ：電動機の出力 ［W］
 
 ## 同期機
 
