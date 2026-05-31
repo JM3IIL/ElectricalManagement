@@ -211,8 +211,8 @@ https://jeea.or.jp/course/contents/09103/
 - 直下光度： I [cd]
 - 光源と計算点までの距離： h [m]
 
-- 水平面照度：$E_h$
-- 法線照度：$E_n$
+- 水平面照度： $E_h$
+- 法線照度： $E_n$
 - $E_h = E_n cosθ = \frac{Iθcosθ}{h^2}$
 
 立体角
