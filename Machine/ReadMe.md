@@ -226,9 +226,9 @@ lm
 https://eleking.net/denken3/d3f/d3f-electricheat.html
 
 ## 電気化学
-燃料電池
-二次電池
-鉛蓄電池
+- 燃料電池
+- 二次電池
+- 鉛蓄電池
 
 ## メカトロニクス
 
