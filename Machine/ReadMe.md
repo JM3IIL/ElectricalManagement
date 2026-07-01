@@ -97,7 +97,7 @@ https://www2.panasonic.biz/jp/terasu/skill/dictionary/squirrel-cage.html
 - 三相誘導電動機の効率
 
 
-三相誘導電動機の極数が p ，電源の周波数が f [Hz] の時，同期速度 Ns [min−1] は，
+三相誘導電動機の極数が p ，電源の周波数が f [Hz] の時，同期速度 Ns [min^−1] は，
 $N_s = 120f/p [min^{-1}]$
 
 誘導電動機のトルクTの公式
@@ -172,7 +172,7 @@ $P = F_v$
 - トルクT[N・m]
 - 角速度ω[rad/s]
 - 電動機の所要出力P[W]
-P = Tω
+$P = T_ω$
 - はずみ車の慣性モーメント $J [kg・m^2]$
 - はずみ車の運動エネルギー W [J]
 $W = 1/2J^2ω$　
