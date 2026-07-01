@@ -34,8 +34,12 @@ https://yikai.sakura.ne.jp/Electric/Chap3/Chap3_2.htm
 誘導電動機
 https://ja.wikipedia.org/wiki/%E8%AA%98%E5%B0%8E%E9%9B%BB%E5%8B%95%E6%A9%9F
 
+電源周波数より遅い
+
 同期電動機
 https://ja.wikipedia.org/wiki/%E5%90%8C%E6%9C%9F%E9%9B%BB%E5%8B%95%E6%A9%9F
+
+すべりはない
 
 直流機
 - 直流電動機
