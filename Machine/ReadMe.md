@@ -127,6 +127,15 @@ https://www.jeea.or.jp/course/contents/12126/
 - 三相同期発電機の短絡比
 - 同期発電機の負荷角
 
+### 同期電動機
+同期速度： $N_s = 120f/p [min^{−1}]$
+極数：p
+定格周波数： f [Hz]
+トルク： $T =　P/ω [N⋅m]$
+角速度： ω [rad/s]
+出力： P [W]
+
+### 同期発電機
 
 https://momoyoshiblog.com/douki-dendouki/
 
