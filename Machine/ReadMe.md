@@ -68,6 +68,10 @@ https://e-sysnet.com/%E7%9B%B4%E6%B5%81%E6%A9%9F%E3%81%AE%E5%8E%9F%E7%90%86%E3%8
 - 
 
 ## 誘導機
+
+https://denken3s.com/induction-motor-structure/
+https://denken3s.com/induction-motor-principle/
+
 ### 巻線型誘導機
 https://electric-facilities.jp/denki7/ma/004.html
 …
@@ -162,7 +166,7 @@ https://denken-ou.com/kikaih25-6/
 トルク
 
 ## 変圧器
-
+https://denken3s.com/autotransformer/
 https://eleking.net/denken3/d3f/d3f-transformer.html
 
 https://note.com/hal9546/n/n353bf3a6b04f
