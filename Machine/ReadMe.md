@@ -113,7 +113,7 @@ T ：トルク [N⋅m]
 $P_o$ ：電動機の出力 [W]
 
 ## 同期機
-
+固定界磁と回転界磁
 https://denki-plantengineer.com/doukihatsudenki
 
 https://www.jeea.or.jp/course/contents/12126/
