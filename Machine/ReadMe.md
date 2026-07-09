@@ -82,6 +82,7 @@ https://kikai-maschine.com/2021/12/06/post-1015/
 ### かご型誘導機
 動作
 https://denki-plantengineer.com/kagogatadendoki
+https://www.nomurakoudensha.co.jp/im.html
 https://ja.wikipedia.org/wiki/%E3%81%8B%E3%81%94%E5%BD%A2%E4%B8%89%E7%9B%B8%E8%AA%98%E5%B0%8E%E9%9B%BB%E5%8B%95%E6%A9%9F
 https://www.mohno-pump.co.jp/learning/manabiya/b2b.html
 https://www2.panasonic.biz/jp/terasu/skill/dictionary/squirrel-cage.html
