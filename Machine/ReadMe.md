@@ -8,6 +8,10 @@ https://denken-ou.com/kikai/
 
 https://denken3s.com/dcmotor-structure/
 
+https://kikai-maschine.com/2021/11/20/tyokuryuki1/
+https://kikai-maschine.com/2021/11/22/dc-motor2/
+https://kikai-maschine.com/2021/11/25/dc-motor3/
+
 電機子
 界磁
 - 磁束密度の大きさ $B [T]$ 
