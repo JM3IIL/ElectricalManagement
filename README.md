@@ -7,6 +7,9 @@ ElectricalManagement
 - [機械](./Machine.md)
 - [法律](./Law.md)
 
+過去問
+https://www.shiken.or.jp/chief/third/qa/
+
 過去問解説
 https://yaku-tik.com/denken/category/kako/
 
