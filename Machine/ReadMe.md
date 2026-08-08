@@ -46,6 +46,7 @@ https://eleking.net/denken3/d3f/d3f-synchronous.html
 変圧器の問題を解くための重要公式
 https://eleking.net/denken3/d3f/d3f-transformer.html
 
+回転速度と負荷と電流とトルク
 
 ### 発電機
 
