@@ -5,7 +5,9 @@ https://denken-ou.com/kikai/
 
 
 ## 直流機
-
+- 回転数の調整がしやすい
+- 始動トルクを大きく取りやすい
+- ブラシや整流子の保守が必要
 https://denken3s.com/dcmotor-structure/
 
 https://kikai-maschine.com/2021/11/20/tyokuryuki1/
