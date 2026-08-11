@@ -75,6 +75,10 @@ https://e-sysnet.com/%E7%9B%B4%E6%B5%81%E6%A9%9F%E3%81%AE%E5%8E%9F%E7%90%86%E3%8
 - 
 
 ## 誘導機
+- 構造が単純
+- 速度が安定
+- 回転数を変更するには周波数変更が必要
+- 滑りがある
 
 https://denken3s.com/induction-motor-structure/
 https://denken3s.com/induction-motor-principle/
