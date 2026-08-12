@@ -127,6 +127,11 @@ T ：トルク [N⋅m]
 $P_o$ ：電動機の出力 [W]
 
 ## 同期機
+- 電圧を調整しやすい励磁制御
+　https://www.jeea.or.jp/course/contents/12105/
+- 力率を調整しやすい(界磁電流を変化)
+- 構造が複雑
+
 固定界磁と回転界磁
 https://denki-plantengineer.com/doukihatsudenki
 
