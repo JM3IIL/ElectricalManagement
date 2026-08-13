@@ -185,6 +185,9 @@ https://denken-ou.com/kikaih25-6/
 トルク
 
 ## 変圧器
+- 誘導機の等価回路は変圧器と類似
+- すべりs=1(静止時)は全く同じ
+  
 https://denken3s.com/autotransformer/
 https://eleking.net/denken3/d3f/d3f-transformer.html
 
