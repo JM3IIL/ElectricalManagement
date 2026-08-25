@@ -273,3 +273,5 @@ https://eleking.net/denken3/d3f/d3f-electricheat.html
 カルノー図
 https://note.com/tona902/n/n2c7ad9214193
 
+## YouTube
+https://m.youtube.com/watch?v=ehpgeIvY3r4
