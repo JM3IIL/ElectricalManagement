@@ -16,13 +16,14 @@ https://kikai-maschine.com/2021/11/25/dc-motor3/
 
 電機子
 界磁
+
+誘導起電力
 - 磁束密度の大きさ $B [T]$ 
 - 電流の大きさ $I [A]$ 
 - 直線状導体の長さ $l [m]$ 
-
-
-
 - 誘導起電力 $e = Blv [V]$
+
+誘導起電力  
 - 磁極数 $p $個
 - 電機子の全導体数 $Z $
 - 並列回路数 (重ね巻の場合は a=p、波巻の場合は a=2) $a $
@@ -30,11 +31,18 @@ https://kikai-maschine.com/2021/11/25/dc-motor3/
 - 回転速度 $n [min^{−1}]$
 - 誘導起電力 $E = \frac{pZ}{60a}Φn [V]$
 
+トルク
 - 出力： $P [W]$
 - 角速度： $ω [rad/s]$
 - トルク： $T = \frac{P}{ω} [N⋅m]$
 
+回転速度
 - 回転速度： $N = V - I_a (r_a + r_f) KΦ [min^{-1}]$
+
+
+速度
+- 角速度
+- 回転速度
 
 直流機の問題を解くための重要公式
 https://eleking.net/denken3/d3f/d3f-dcmotor.html
