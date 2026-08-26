@@ -190,6 +190,7 @@ https://denken-ou.com/kikaih25-6/
   
 https://denken3s.com/autotransformer/
 https://eleking.net/denken3/d3f/d3f-transformer.html
+https://rikeinotame.com/induction3/
 
 https://note.com/hal9546/n/n353bf3a6b04f
 
