@@ -8,6 +8,7 @@ https://denken-ou.com/kikai/
 - 回転数の調整がしやすい
 - 始動トルクを大きく取りやすい
 - ブラシや整流子の保守が必要
+  
 https://denken3s.com/dcmotor-structure/
 
 https://kikai-maschine.com/2021/11/20/tyokuryuki1/
@@ -42,7 +43,7 @@ https://kikai-maschine.com/2021/11/25/dc-motor3/
 
 速度
 - 角速度
-- 回転速度
+- 回転速度： $N = \frac{60ω}{2π}$
 
 直流機の問題を解くための重要公式
 https://eleking.net/denken3/d3f/d3f-dcmotor.html
