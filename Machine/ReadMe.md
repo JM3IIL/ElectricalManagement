@@ -214,9 +214,9 @@ $P = F_v$
 
 ### はずみ車
 
-- トルクT[N・m]
-- 角速度ω[rad/s]
-- 電動機の所要出力P[W]
+- トルク　T[N・m]
+- 角速度　ω[rad/s]
+- 電動機の所要出力　P[W]
 $P = T_ω$
 - はずみ車の慣性モーメント $J [kg・m^2]$
 - はずみ車の運動エネルギー W [J]
@@ -237,7 +237,9 @@ https://detail-infomation.com/buck-converter/
 
 サイリスタ
 https://contents.zaikostore.com/semiconductor/5434/
+
 https://ja.wikipedia.org/wiki/%E3%82%B5%E3%82%A4%E3%83%AA%E3%82%B9%E3%82%BF
+
 https://jp.rs-online.com/web/content/discovery/ideas-and-advice/thyristors-guide
 
 ## 自動制御
@@ -252,10 +254,12 @@ https://eleking.net/denken3/d3f/d3f-control.html
 
 https://jeea.or.jp/course/contents/09103/
 
+照度
 - 照度： $E = \frac{I}{h^2} [ℓx]$
 - 直下光度： I [cd]
 - 光源と計算点までの距離： h [m]
 
+水平照度
 - 水平面照度： $E_h$
 - 法線照度： $E_n$
 - $E_h = E_n cosθ = \frac{Iθcosθ}{h^2}$
