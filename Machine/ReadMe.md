@@ -5,6 +5,8 @@ https://denken-ou.com/kikai/
 
 
 ## 直流機
+構造：固定子(界磁)と、回転子(電機子)
+
 - 回転数の調整がしやすい
 - 始動トルクを大きく取りやすい
 - ブラシや整流子の保守が必要
@@ -14,9 +16,6 @@ https://denken3s.com/dcmotor-structure/
 https://kikai-maschine.com/2021/11/20/tyokuryuki1/
 https://kikai-maschine.com/2021/11/22/dc-motor2/
 https://kikai-maschine.com/2021/11/25/dc-motor3/
-
-電機子
-界磁
 
 誘導起電力
 - 磁束密度の大きさ $B [T]$ 
