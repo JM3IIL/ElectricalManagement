@@ -125,7 +125,7 @@ https://www2.panasonic.biz/jp/terasu/skill/dictionary/squirrel-cage.html
 
 三相誘導電動機
 - 極数: p
-- 電源の周波数: f [Hz]
+- 電源の周波数: $f [Hz]$
 - 同期速度 : $N_s = 120f/p [min^{-1}]$
 
 誘導電動機
@@ -162,10 +162,10 @@ https://www.jeea.or.jp/course/contents/12126/
 ### 同期電動機
 同期速度： $N_s = 120f/p [min^{−1}]$
 極数：p
-定格周波数： f [Hz]
+定格周波数： $f [Hz]$
 トルク： $T =　P/ω [N⋅m]$
-角速度： ω [rad/s]
-出力： P [W]
+角速度： $ω [rad/s]$
+出力： $P [W]$
 
 ### 同期発電機
 
