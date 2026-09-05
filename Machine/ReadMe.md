@@ -124,7 +124,7 @@ https://www2.panasonic.biz/jp/terasu/skill/dictionary/squirrel-cage.html
 
 
 三相誘導電動機
-- 極数: p
+- 極数: $p$
 - 電源の周波数: $f [Hz]$
 - 同期速度 : $N_s = 120f/p [min^{-1}]$
 
@@ -161,7 +161,7 @@ https://www.jeea.or.jp/course/contents/12126/
 
 ### 同期電動機
 同期速度： $N_s = 120f/p [min^{−1}]$
-極数：p
+極数：$p$
 定格周波数： $f [Hz]$
 トルク： $T =　P/ω [N⋅m]$
 角速度： $ω [rad/s]$
@@ -181,8 +181,8 @@ https://denken-ou.com/kikaih25-6/
 |誘導機|回転磁界より遅い速度で回転|堅牢で低価格   |メンテナンスが容易|
 |同期機|回転磁界と同じ速度で回転|構造が複雑で高価 |高性能・高効率|
 
-- 極数： p
-- 定格周波数： f [Hz]
+- 極数: $p$
+- 定格周波数: $f [Hz]$
 
 - 同期速度： $N_s = 120fp [min^{−1}]$
 
@@ -209,8 +209,8 @@ https://note.com/hal9546/n/n353bf3a6b04f
 ## 電動機応用
 
 ### 巻上機
-ある物体を力 F [N] ，速度 v [m／s] で引っ張った時に必要な動力 P [W] 
-$P = Fv [W]$
+ある物体を力 F [N] ，速度 v [m／s] で引っ張った時
+必要な動力: $P = Fv [W]$
 
 ### はずみ車
 
