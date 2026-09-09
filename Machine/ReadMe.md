@@ -131,7 +131,6 @@ https://www2.panasonic.biz/jp/terasu/skill/dictionary/squirrel-cage.html
 誘導電動機
 -トルク: $T = P_o / ω [N⋅m]$
 
-トルク: $T [N⋅m]$
 角速度: $ω [rad/s]$
 電動機の出力: $P_o [W]$
 
@@ -219,7 +218,7 @@ https://note.com/hal9546/n/n353bf3a6b04f
 
 - トルク:　$T[N・m]$
 - 角速度:　$ω[rad/s]$
-- 電動機の所要出力: $P = T_ω [W]$
+- 電動機の所要出力: $P = Tω [W]$
 - はずみ車の慣性モーメント: $J [kg・m^2]$
 - はずみ車の運動エネルギー: $W = 1/2J^2ω [J]$　
 
