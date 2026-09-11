@@ -220,8 +220,9 @@ https://note.com/hal9546/n/n353bf3a6b04f
 - 角速度:　$ω[rad/s]$
 - 電動機の所要出力: $P = Tω [W]$
 - はずみ車の慣性モーメント: $J [kg・m^2]$
-- はずみ車の運動エネルギー: $W = 1/2J^2ω [J]$　
+- はずみ車の運動エネルギー: $W = \frac{1}{2}Jω^2 [J]$　
 
+https://yaku-tik.com/denken/k-flywheel/
 
 ## 電気機器
 
@@ -260,9 +261,8 @@ https://jeea.or.jp/course/contents/09103/
 - 光源と計算点までの距離： $h [m]$
 
 水平照度
-- 水平面照度： $E_h$
+- 水平面照度： $E_h = E_n cosθ = \frac{Iθcosθ}{h^2}$
 - 法線照度： $E_n$
-- $E_h = E_n cosθ = \frac{Iθcosθ}{h^2}$
 
 立体角
 
@@ -286,6 +286,8 @@ https://eleking.net/denken3/d3f/d3f-electricheat.html
 
 カルノー図
 https://note.com/tona902/n/n2c7ad9214193
+
+
 
 ## YouTube
 https://m.youtube.com/watch?v=ehpgeIvY3r4
