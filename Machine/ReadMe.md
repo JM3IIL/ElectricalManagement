@@ -209,10 +209,10 @@ https://note.com/hal9546/n/n353bf3a6b04f
 
 ### 巻上機
 ある物体を
-力: $F [N]$
-速度: $v [m/s]$ 
+- 力: $F [N]$
+- 速度: $v [m/s]$ 
 で引っ張った時
-必要な動力: $P = Fv [W]$
+- 必要な動力: $P = Fv [W]$
 
 ### はずみ車
 
@@ -228,7 +228,7 @@ https://yaku-tik.com/denken/k-flywheel/
 
 - パワーコンディショナー
 - 電力用コンデンサ
-- https://electrical-engineer.hatenablog.jp/entry/2022/03/11/090000
+https://electrical-engineer.hatenablog.jp/entry/2022/03/11/090000
 
 ## パワーエレクトロニクス
 昇降圧チョッパ
