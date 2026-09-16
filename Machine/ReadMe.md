@@ -162,7 +162,7 @@ https://www.jeea.or.jp/course/contents/12126/
 - 同期速度: $N_s = 120f/p [min^{−1}]$
 - 極数: $p$
 - 定格周波数: $f [Hz]$
-- トルク: $T =　P/ω [N⋅m]$
+- トルク: $T = P/ω [N⋅m]$
 - 角速度: $ω [rad/s]$
 - 出力: $P [W]$
 
@@ -185,8 +185,6 @@ https://denken-ou.com/kikaih25-6/
 
 - 同期速度: $N_s = 120fp [min^{−1}]$
 
- 
-
 
 すべり
 
@@ -197,7 +195,9 @@ https://denken-ou.com/kikaih25-6/
 - すべりs=1(静止時)は全く同じ
   
 https://denken3s.com/autotransformer/
+
 https://eleking.net/denken3/d3f/d3f-transformer.html
+
 https://rikeinotame.com/induction3/
 
 https://note.com/hal9546/n/n353bf3a6b04f
@@ -280,6 +280,7 @@ https://eleking.net/denken3/d3f/d3f-electricheat.html
 - 鉛蓄電池
 
 ## メカトロニクス
+
 
 ## 情報伝送及び処理
 論理回路
