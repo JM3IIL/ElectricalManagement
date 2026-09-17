@@ -161,14 +161,17 @@ https://www.jeea.or.jp/course/contents/12126/
 ### 同期電動機
 - 極数: $p$
 - 定格周波数: $f [Hz]$
+
 同期速度: $N_s = 120f/p [min^{−1}]$
 
 - 角速度: $ω [rad/s]$
 - 出力: $P [W]$
+
 トルク: $T = P/ω [N⋅m]$
 
 - 内部起電力: E_₀
 - 同期リアクタンス: x_s
+
 $P_o = \frac{3VE_o}{x_s}sin δ$
 
 ### 同期発電機
