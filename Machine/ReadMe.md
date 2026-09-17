@@ -171,6 +171,7 @@ https://www.jeea.or.jp/course/contents/12126/
 
 - 内部起電力: E_₀
 - 同期リアクタンス: x_s
+- 負荷角(トルク角): δ (E_₀がVに対して進んでいる)
 
 $P_o = \frac{3VE_o}{x_s}sin δ$
 
