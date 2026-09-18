@@ -126,7 +126,8 @@ https://www2.panasonic.biz/jp/terasu/skill/dictionary/squirrel-cage.html
 三相誘導電動機
 - 極数: $p$
 - 電源の周波数: $f [Hz]$
-- 同期速度: $N_s = 120f/p [min^{-1}]$
+
+同期速度: $N_s = 120f/p [min^{-1}]$
 
 誘導電動機
 -トルク: $T = P_o / ω [N⋅m]$
@@ -192,7 +193,7 @@ https://denken-ou.com/kikaih25-6/
 - 極数: $p$
 - 定格周波数: $f [Hz]$
 
-- 同期速度: $N_s = 120fp [min^{−1}]$
+同期速度: $N_s = 120fp [min^{−1}]$
 
 
 すべり
@@ -221,7 +222,7 @@ https://note.com/hal9546/n/n353bf3a6b04f
 - 力: $F [N]$
 - 速度: $v [m/s]$ 
 で引っ張った時
-- 必要な動力: $P = Fv [W]$
+必要な動力: $P = Fv [W]$
 
 ### はずみ車
 
