@@ -73,7 +73,8 @@ https://e-sysnet.com/%E7%9B%B4%E6%B5%81%E6%A9%9F%E3%81%AE%E5%8E%9F%E7%90%86%E3%8
 - $I_f [A]$ 界磁電流
 - $I_a [A]$ 電機子電流
 - 逆起電力: $E = k_eI_fN = k_eI_aN [V]$
-- トルク: $T = k_fI_a^2 [N⋅m]$
+
+トルク: $T = k_fI_a^2 [N⋅m]$
 
 ### 計算問題
 - 直流電動機の電機子巻線の抵抗値
@@ -133,6 +134,7 @@ https://www2.panasonic.biz/jp/terasu/skill/dictionary/squirrel-cage.html
 -トルク: $T = P_o / ω [N⋅m]$
 
 角速度: $ω [rad/s]$
+
 電動機の出力: $P_o [W]$
 
 ## 同期機
@@ -229,8 +231,10 @@ https://note.com/hal9546/n/n353bf3a6b04f
 - トルク:　$T[N・m]$
 - 角速度:　$ω[rad/s]$
 - 電動機の所要出力: $P = Tω [W]$
-- はずみ車の慣性モーメント: $J [kg・m^2]$
-- はずみ車の運動エネルギー: $W = \frac{1}{2}Jω^2 [J]$　
+
+はずみ車の慣性モーメント: $J [kg・m^2]$
+
+はずみ車の運動エネルギー: $W = \frac{1}{2}Jω^2 [J]$　
 
 https://yaku-tik.com/denken/k-flywheel/
 
@@ -272,6 +276,7 @@ https://jeea.or.jp/course/contents/09103/
 
 水平照度
 - 水平面照度： $E_h = E_n cosθ = \frac{Iθcosθ}{h^2}$
+
 - 法線照度： $E_n$
 
 立体角
