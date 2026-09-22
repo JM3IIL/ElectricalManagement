@@ -283,6 +283,8 @@ https://jeea.or.jp/course/contents/09103/
 
 lm
 
+光度 [cd]
+
 ## 電熱
 加熱方式
 
