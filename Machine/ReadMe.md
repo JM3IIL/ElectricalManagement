@@ -283,9 +283,10 @@ https://jeea.or.jp/course/contents/09103/
 
 lm
 
-光束 [lm]
-光度 [cd]
-照度 [lx]
+光束 [lm] 
+光度 [cd] 
+照度 [lx] 
+輝度 [cd/m^2]
 
 ## 電熱
 加熱方式
