@@ -270,7 +270,7 @@ https://eleking.net/denken3/d3f/d3f-control.html
 https://jeea.or.jp/course/contents/09103/
 
 照度
-- 照度： $E = \frac{I}{h^2} [ℓx]$
+- 照度： $E = \frac{I}{h^2} [lx]$
 - 直下光度： $I [cd]$
 - 光源と計算点までの距離： $h [m]$
 
@@ -281,7 +281,6 @@ https://jeea.or.jp/course/contents/09103/
 
 立体角
 
-lm
 
 光束 [lm] 
 光度 [cd] 
