@@ -284,8 +284,10 @@ https://jeea.or.jp/course/contents/09103/
 
 光束 [lm] 
 光度 [cd] 
-照度 [lx] 
+照度 [lx] 場所の明るさの程度
+
 輝度 [cd/m^2]
+光束発散度[lm/m2]
 
 ## 電熱
 加熱方式
