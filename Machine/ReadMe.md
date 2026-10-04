@@ -287,18 +287,17 @@ https://jeea.or.jp/course/contents/09103/
 - 照度 [lx] 場所の明るさの程度:ある面に入射する光束をその面の面積で割った値
 
 - 輝度 [cd/m^2] 光度の面積密度
-- 光束発散度[lm/m2]
+- 光束発散度[lm/m^2]
 
 光束 F と光度 I の関係式
 $I=\frac{F}{ω}$
 - 立体角: $ω [sr:ステラジアン]$
 
 立体角 ω を求める式
-
 $ω = \frac{A}{r^2} = 2π(1 - cosθ)$
 
 
-- 光源の表面積: $A [m2]$
+- 光源の表面積: $A [m^2]$
 - 光源の中心から表面までの距離: $r [m]$
 
 ## 電熱
@@ -325,3 +324,5 @@ https://note.com/tona902/n/n2c7ad9214193
 
 ## YouTube
 https://m.youtube.com/watch?v=ehpgeIvY3r4
+
+
