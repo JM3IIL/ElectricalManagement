@@ -128,10 +128,10 @@ https://www2.panasonic.biz/jp/terasu/skill/dictionary/squirrel-cage.html
 - 極数: $p$
 - 電源の周波数: $f [Hz]$
 
-同期速度: $N_s = 120f/p [min^{-1}]$
+同期速度: $N_s = \frac{120f}{p} [min^{-1}]$
 
 誘導電動機
--トルク: $T = P_o / ω [N⋅m]$
+-トルク: $T = \frac{P_o}{ω} [N⋅m]$
 
 角速度: $ω [rad/s]$
 
