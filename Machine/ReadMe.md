@@ -27,7 +27,7 @@ https://kikai-maschine.com/2021/11/25/dc-motor3/
 - 磁極数: $p$ 個
 - 電機子の全導体数: $Z $
 - 並列回路数 (重ね巻の場合は a=p、波巻の場合は a=2): $a $
-- 1極あたりの磁束] $Φ [Wb]$
+- 1極あたりの磁束: $Φ [Wb]$
 - 回転速度: $n [min^{−1}]$
 - 誘導起電力: $E = \frac{pZ}{60a}Φn [V]$
 
@@ -68,8 +68,8 @@ https://jeea.or.jp/course/contents/12127/
 https://e-sysnet.com/%E7%9B%B4%E6%B5%81%E6%A9%9F%E3%81%AE%E5%8E%9F%E7%90%86%E3%81%A8%E6%A7%8B%E9%80%A0/
 
 直巻発電機 
-- $k_e $ 
-- $k_f $ 
+- : $k_e $ 
+- : $k_f $ 
 - 界磁電流: $I_f [A]$ 
 - 電機子電流: $I_a [A]$ 
 - 逆起電力: $E = k_eI_fN = k_eI_aN [V]$
@@ -133,9 +133,9 @@ https://www2.panasonic.biz/jp/terasu/skill/dictionary/squirrel-cage.html
 誘導電動機
 -トルク: $T = \frac{P_o}{ω} [N⋅m]$
 
-角速度: $ω [rad/s]$
+- 角速度: $ω [rad/s]$
 
-電動機の出力: $P_o [W]$
+- 電動機の出力: $P_o [W]$
 
 ## 同期機
 - 電圧を調整しやすい励磁制御
