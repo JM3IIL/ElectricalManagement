@@ -40,6 +40,9 @@ https://kikai-maschine.com/2021/11/25/dc-motor3/
 - 回転速度: $N = V - I_a (r_a + r_f) KΦ [min^{-1}]$
 
 
+逆起電力 E_a
+$N = \frac{E_a}{K_1φ}$
+
 速度
 - 角速度: $ω = \frac{2π}{60N}$
 - 回転速度: $N = \frac{60ω}{2π}$
