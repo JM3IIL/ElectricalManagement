@@ -10,6 +10,7 @@ https://denken-ou.com/kikai/
 - 回転数の調整がしやすい
 - 始動トルクを大きく取りやすい
 - ブラシや整流子の保守が必要
+- (回転子=固定子とは限らない)
   
 https://denken3s.com/dcmotor-structure/
 
