@@ -17,6 +17,7 @@ https://denken3s.com/dcmotor-structure/
 https://kikai-maschine.com/2021/11/20/tyokuryuki1/
 https://kikai-maschine.com/2021/11/22/dc-motor2/
 https://kikai-maschine.com/2021/11/25/dc-motor3/
+https://denken-muscle.com/shared/dc-machine/dc-18-speed.html
 
 誘導起電力
 - 磁束密度の大きさ $B [T]$ 
@@ -39,7 +40,7 @@ https://kikai-maschine.com/2021/11/25/dc-motor3/
 
 回転速度
 - 回転速度: $N = V - I_a (r_a + r_f) KΦ [min^{-1}]$
-- $V$
+- 端子電圧: $V$
 - $I_a$
 - $r_a$
 - $r_f$
