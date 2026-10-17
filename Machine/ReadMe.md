@@ -19,6 +19,9 @@ https://kikai-maschine.com/2021/11/22/dc-motor2/
 https://kikai-maschine.com/2021/11/25/dc-motor3/
 https://denken-muscle.com/shared/dc-machine/dc-18-speed.html
 
+$E = kφn$
+$E = V - {I_a}{R_a}$
+
 誘導起電力
 - 磁束密度の大きさ $B [T]$ 
 - 電流の大きさ $I [A]$ 
