@@ -19,7 +19,9 @@ https://kikai-maschine.com/2021/11/22/dc-motor2/
 https://kikai-maschine.com/2021/11/25/dc-motor3/
 https://denken-muscle.com/shared/dc-machine/dc-18-speed.html
 
+誘導起電力
 $E = kφn$
+電動機の等価回路
 $E = V - {I_a}{R_a}$
 
 誘導起電力
