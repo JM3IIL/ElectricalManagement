@@ -18,6 +18,7 @@ https://kikai-maschine.com/2021/11/20/tyokuryuki1/
 https://kikai-maschine.com/2021/11/22/dc-motor2/
 https://kikai-maschine.com/2021/11/25/dc-motor3/
 https://denken-muscle.com/shared/dc-machine/dc-18-speed.html
+https://shirasusolo.net/dennkenn/mechanical-subjects/post-9011/
 
 誘導起電力
 - 誘導起電力: $E = kφn$
