@@ -22,7 +22,7 @@ https://shirasusolo.net/dennkenn/mechanical-subjects/post-9011/
 
 誘導起電力
 - 誘導起電力: $E = kφn$
-- $k$
+- 機械定数: $k = \frac{pz}{60}$
 - $φ$
 - $n$
 
