@@ -21,9 +21,9 @@ https://denken-muscle.com/shared/dc-machine/dc-18-speed.html
 https://shirasusolo.net/dennkenn/mechanical-subjects/post-9011/
 
 誘導起電力
-- 誘導起電力: $E = kφn$
+- 誘導起電力: $E = kφn [V]$
 - 機械定数: $k = \frac{pz}{60}$
-- $φ$
+- 磁束: $φ [Wb]$
 - $n$
 
 トルク
