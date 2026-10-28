@@ -24,7 +24,7 @@ https://shirasusolo.net/dennkenn/mechanical-subjects/post-9011/
 - 誘導起電力: $E = kφn [V]$
 - 機械定数: $k = \frac{pz}{60}$
 - 磁束: $φ [Wb]$
-- $n$
+- 回転速度: $n$
 
 トルク
 - $T = kφI_a$
