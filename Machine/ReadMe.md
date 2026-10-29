@@ -31,7 +31,7 @@ https://shirasusolo.net/dennkenn/mechanical-subjects/post-9011/
 
 電動機の等価回路
 - 誘導起電力: $E = V - {I_a}{R_a}$
-- $V$
+- $V []$
 - ${I_a}$
 - ${R_a}$
 
