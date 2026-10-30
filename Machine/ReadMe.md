@@ -31,9 +31,9 @@ https://shirasusolo.net/dennkenn/mechanical-subjects/post-9011/
 
 電動機の等価回路
 - 誘導起電力: $E = V - {I_a}{R_a}$
-- $V [V]$
-- ${I_a} [A]$
-- ${R_a}$
+- 端子電圧: $V [V]$
+- 電機子電流: ${I_a} [A]$
+- 電機子抵抗: ${R_a} [Ω]$
 
 誘導起電力
 - 磁束密度の大きさ $B [T]$ 
