@@ -57,8 +57,8 @@ https://shirasusolo.net/dennkenn/mechanical-subjects/post-9011/
 回転速度
 - 回転速度: $N = V - I_a (r_a + r_f) KΦ [min^{-1}]$
 - 端子電圧: $V$
-- $I_a [A]$
-- $r_a [Ω]$
+- 電機子電流: $I_a [A]$
+- 電機子抵抗: $r_a [Ω]$
 - $r_f [Ω]$
 - $K$
 
