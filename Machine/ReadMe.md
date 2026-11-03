@@ -59,8 +59,8 @@ https://shirasusolo.net/dennkenn/mechanical-subjects/post-9011/
 - 端子電圧: $V$
 - 電機子電流: $I_a [A]$
 - 電機子抵抗: $r_a [Ω]$
-- $r_f [Ω]$
-- $K$
+- 抵抗$r_f [Ω]$
+- 定数$K$
 
 逆起電力: $E_a$
 $N = \frac{E_a}{K_1φ}$
