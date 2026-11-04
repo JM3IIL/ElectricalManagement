@@ -66,8 +66,8 @@ https://shirasusolo.net/dennkenn/mechanical-subjects/post-9011/
 $N = \frac{E_a}{K_1φ}$
 
 速度
-- 角速度: $ω = \frac{2π}{60N}$
-- 回転速度: $N = \frac{60ω}{2π}$
+- 角速度: $ω = \frac{2πN}{60} [rad/s]$
+- 回転速度: $N = \frac{60ω}{2π} [min^{−1}]$
 
 直流機の問題を解くための重要公式
 https://eleking.net/denken3/d3f/d3f-dcmotor.html
