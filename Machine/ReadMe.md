@@ -27,7 +27,7 @@ https://shirasusolo.net/dennkenn/mechanical-subjects/post-9011/
 - 回転速度: $n [min^{-1}]$
 
 トルク
-- $T = kφI_a$
+- $T = kφI_a [N⋅m]$
 
 電動機の等価回路
 - 誘導起電力: $E = V - {I_a}{R_a}$
