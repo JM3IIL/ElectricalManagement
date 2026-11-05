@@ -30,7 +30,7 @@ https://shirasusolo.net/dennkenn/mechanical-subjects/post-9011/
 - $T = kφI_a [N⋅m]$
 
 電動機の等価回路
-- 誘導起電力: $E = V - {I_a}{R_a}$
+- 誘導起電力: $E = V - {I_a}{R_a} [V]$
 - 端子電圧: $V [V]$
 - 電機子電流: ${I_a} [A]$
 - 電機子抵抗: ${R_a} [Ω]$
