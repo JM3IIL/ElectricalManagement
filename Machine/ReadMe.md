@@ -56,14 +56,14 @@ https://shirasusolo.net/dennkenn/mechanical-subjects/post-9011/
 
 回転速度
 - 回転速度: $N = V - I_a (r_a + r_f) KΦ [min^{-1}]$
-- 端子電圧: $V$
+- 端子電圧: $V [V]$
 - 電機子電流: $I_a [A]$
 - 電機子抵抗: $r_a [Ω]$
 - 抵抗: $r_f [Ω]$
 - 定数: $K$
 
 逆起電力: $E_a$
-$N = \frac{E_a}{K_1φ}$
+$N = \frac{E_a}{K_1φ} [min^{−1}]$
 
 速度
 - 角速度: $ω = \frac{2πN}{60} [rad/s]$
