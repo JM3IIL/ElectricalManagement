@@ -300,9 +300,9 @@ https://jeea.or.jp/course/contents/09103/
 - 光源と計算点までの距離： $h [m]$
 
 水平照度
-- 水平面照度： $E_h = E_n cosθ = \frac{Iθcosθ}{h^2}$
+- 水平面照度： $E_h = E_n cosθ = \frac{Iθcosθ}{h^2} [lx]$
 
-- 法線照度： $E_n$
+- 法線照度： $E_n [lx]$
 
 立体角
 
