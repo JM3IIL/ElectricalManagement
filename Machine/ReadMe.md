@@ -35,6 +35,9 @@ https://shirasusolo.net/dennkenn/mechanical-subjects/post-9011/
 - 電機子電流: ${I_a} [A]$
 - 電機子抵抗: ${R_a} [Ω]$
 
+電動機の回転速度
+$n = \frac{E}{kφ} = \frac{V - {I_a}{R_a}}{kφ}$
+
 誘導起電力
 - 磁束密度の大きさ $B [T]$ 
 - 電流の大きさ $I [A]$ 
