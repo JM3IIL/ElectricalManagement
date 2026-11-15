@@ -36,7 +36,7 @@ https://shirasusolo.net/dennkenn/mechanical-subjects/post-9011/
 - 電機子抵抗: ${R_a} [Ω]$
 
 電動機の回転速度
-$n = \frac{E}{kφ} = \frac{V - {I_a}{R_a}}{kφ}$
+$n = \frac{E}{kφ} = \frac{V - {I_a}{R_a}}{kφ} [min^{-1}]$
 
 誘導起電力
 - 磁束密度の大きさ $B [T]$ 
