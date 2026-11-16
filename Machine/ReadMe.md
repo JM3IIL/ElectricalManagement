@@ -204,7 +204,7 @@ https://www.jeea.or.jp/course/contents/12126/
 - 同期リアクタンス: $x_s [Ω]$
 - 負荷角(トルク角): $δ (E_₀がVに対して進んでいる)$
 
-$P_o = \frac{3VE_o}{x_s}sin δ$
+$P_o = \frac{3VE_o}{x_s}sin δ [W]$
 
 ### 同期発電機
 
